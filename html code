@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Company Name</title>
+    <title>Pradeep Industries and Services</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,14 +24,13 @@
     <section class="hero">
         <div class="container">
             <h2>Welcome to our Company</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn">Learn More</a>
+            <a href="#" class="bn">Learn More for company</a>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 Company Name. All rights reserved.</p>
+            <p>&copy; 2024 Pradeep Industries. All rights reserved.</p>
         </div>
     </footer>
 </body>
